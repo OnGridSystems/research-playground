@@ -1,0 +1,22 @@
+{
+  "name": "research-ecdsa-auth-protocol",
+  "version": "1.0.0",
+  "description": "Research on lightweight ECDSA authentication protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnGridSystems/research-ecdsa-auth-protocol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnGridSystems/research-ecdsa-auth-protocol/issues"
+  },
+  "homepage": "https://github.com/OnGridSystems/research-ecdsa-auth-protocol#readme",
+  "dependencies": {
+    "ganache-cli": "^6.4.3"
+  }
+}
