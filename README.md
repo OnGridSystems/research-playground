@@ -5,6 +5,13 @@ Repository aimed for internal use within OnGrid Systems team.
 
 ## Install
 * Clone the repository
+
+* Clean Ubuntu 18.04 LTS image: You'll have to install python, pip and pipenv first
+```sh
+sudo apt install python-pip python3-pip
+pip install pipenv
+```
+
 * Install node and python dependencies
 ```sh
 pipenv install
