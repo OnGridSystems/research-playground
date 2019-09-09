@@ -10,6 +10,7 @@ eth-keys = "*"
 #"secp256k1" = "*"
 #pem = "*"
 #ecdsa = "*"
+pyserial = "*"
 
 [dev-packages]
 
