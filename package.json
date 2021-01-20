@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/OnGridSystems/research-ecdsa-auth-protocol#readme",
   "dependencies": {
-    "ganache-cli": "^6.4.3"
+    "ganache-cli": "^6.4.3",
+    "solc": "^0.8.0",
+    "solc-js": "^1.0.1"
   }
 }
